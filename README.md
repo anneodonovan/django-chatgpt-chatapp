@@ -10,3 +10,7 @@ Based on this chatapp: https://github.com/Madhur215/Django-ChatApp
 ![image](/Images/search.jpg)
 
 ![image](/Images/chat.jpg)
+
+![image](/chat1.png)
+
+![image](/chat2.png)
