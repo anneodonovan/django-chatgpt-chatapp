@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'usnm_pu9ng2xf4@q#aens^n4t)_1)b6icnc^1u-f_jko++*=(#'
+SECRET_KEY = #insert openai api key
 
 
 # You need to choose type of auto-created primary keys https://docs.djangoproject.com/en/3.2/releases/3.2/
@@ -147,7 +147,7 @@ STATICFILES_DIRS = [
 STATIC_ROOT = os.path.join(BASE_DIR, 'assets')
 
 WEBPUSH_SETTINGS = {
-    "VAPID_PUBLIC_KEY": "BAyy98bYOf5IoyFs6mF1neaYJnnNG84qAijwqL-TTnUSuMU-xD4HrcSpPb0K19C-KmkeMeK2BPRFBtRKzRrsYaA",
-    "VAPID_PRIVATE_KEY":"6UZCycjGmru9TPmuLCG6Pygt84_Iv-7WLriM-BLKhCI",
+    "VAPID_PUBLIC_KEY": #insert api key,
+    "VAPID_PRIVATE_KEY":#insert api key,
     "VAPID_ADMIN_EMAIL": "anneodonovan006@gmail.com"
 }
